@@ -5,12 +5,12 @@ date: 2017-08-20 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: post-6.jpg # Add image post (optional)
 tags: [Blog, Meditation]
-author: # Add name author (optional)
+author: Dominic
 ---
-|                  | 企业                                                         | Comments                                                     |                                                              |      |
-| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| 外资             | 中资(台资)                                                   |                                                              |                                                              |      |
-| 上游解决方案     | 无线芯片                                                     | 高通, 博通, MTK, TI, Nordic, Cypress,  Dialog                | 乐鑫，Airoha, Realtek, Silicon Lab,  Telink                  |      |
+|                  | 企业                                                         |                                                              | Comments                                                     |      |
+| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------------------------------- | ---- |
+|                  | 外资                                                         | 中资(台资)                                                   |                                                              |      |
+| 无线芯片         | 高通, 博通, MTK, TI, Nordic, Cypress,  Dialog                | 乐鑫，Airoha, Realtek, Silicon Lab,  Telink                  |                                                              |      |
 | 无线模组         | …                                                            | broadlink, 涂鸦智能                                          | 大多数大品牌制造商会自己搞定模组                             |      |
 | 传感器           | NICERA….                                                     | …..                                                          | 接触得少                                                     |      |
 | 云服务           | AWS，Google Cloud,  Azure,                                   | 阿里云，涂鸦智能，华为云，百度云, 腾讯云                     | 云服务  frasturcture/platfrom as service                     |      |
