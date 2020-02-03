@@ -11,16 +11,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Dominic Ma # add your name
 author-pic: dominic-face.JPG
-about-author: I'm Dominica from Shanghai, China, Chinese name MA Xiaolong. I'm currently working as a project manager for IoT products in GE Lighting.
+about-author: I'm Dominica from Shanghai, China, Chinese name MA Xiaolong. I once worked as a project manager for IoT products in GE Lighting, and recently I moved to a new role Partner Architect in Intel IoTG for Computer Vision solutions.
 # Contact links
 email: dominicma@qq.com # Add your Email address
-phone: # Add your Phone number
+phone: 8615091773343 # Add your Phone number
 website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+linkedin: xiaolong--ma # Add your Linkedin handle
+github: wanderingdominic # Add your Github handle
+twitter:  # Add your Twitter handle
 facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
+instagram: wanderingdominic # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
 # Newsletter
