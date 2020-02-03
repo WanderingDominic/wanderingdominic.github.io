@@ -1,13 +1,13 @@
 ---
 layout: post
-title: IoT Product Development Process - Definition Phase
+title: Smart Home Product Development Process - Definition Phase
 date: 2020-02-03 13:32:20 +0300
 description: Self summary on consumer use IoT product development process. # Add post description (optional)
 img: define.jpg # Add image post (optional)
-tags: [Blog, Meditation]
+tags: [Blog,Smarthome]
 author: Dominic
 ---
-## IoT Product Development Process - Product Definition Phase
+## Smart Home Product Development Process - Definition Phase
 
 #### Marketing/Product Team
 
