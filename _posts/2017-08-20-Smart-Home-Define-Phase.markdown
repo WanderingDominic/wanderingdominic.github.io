@@ -12,19 +12,23 @@ author: Dominic
 #### Marketing/Product Team
 
 - BOI: CTQ features from commercial side. Target cost & volume per year, sales channel & market, expected warranty and use conditions, regulation & safety requirements, 3rd Party platform interoperability... Provided by Product Manager.
+
 - Story Map: Basic User Story for the smart product system...Provided by App Product Manager.
+
 - ID Design: Provide by ID design team. Need to involve supplier to evaluate the feasibility and cost to finalize and trade-off the design.
 
 ####   Technology Team
 
-- PTS: Product Technical Specifications. Derived from BOI. Including key design spec, structure dimensions, warranty, reliability claim, regulation & safety requirements.. Documented by Technology Project Manager, confirmed by Design Manager, Product Manager and system manager. 
-  - If the product is a new category to GE, more benchmarking and consulting work (for example, with 3rd party experts, with system team) should be done at this stage to ensure the spec covers all the CTQs and the certification plan fits the industry standards.
+- PTS: Product Technical Specifications. Derived from BOI. Including key design spec, structure dimensions, warranty, reliability claim, regulation & safety requirements.. Documented by Technology Project Manager, confirmed by Design Manager, Product Manager and system manager. Please noted that if the product is a new category to you, more benchmarking and consulting work (for example, with 3rd party experts, with system team) should be done at this stage to ensure the spec covers all the CTQs and the certification plan fits the industry standards.
+  
 - SRS: Software Requirement Specifications. Derived from Story Map. The main items are presented as user stories. Provided by App/UE Product Manager.
+
 - NRE: Non-Recurring Engineering. This cost should be obtained as part of the project budget. NPI manager is accountable to draft the agreement and sign with the suppliers.
 
 #### Sourcing Team 
 
-- RFQ: Request for Quotation. Send PTS to manufacturer/supplier for FOB quotation. 
+- RFQ: Request for Quotation. Send PTS to manufacturer/supplier for FOB quotation.
+
 - SRG: Supplier Auditing. Quality, sourcing ,technology and EHS department would be involved.
 
 ####  Milestones 1
