@@ -60,5 +60,5 @@ During this phase, the empowered team should go deeper on the product design and
   - Key Design Challenges and Solutions.
   - Safety and Certification Schedule and Key Items.
   - Project Risk Identification and Mitigation  Plan.
-  - IP Clearance
+  - IP Clearance Initial Discussion.
 
