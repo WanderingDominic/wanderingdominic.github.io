@@ -1,19 +1,47 @@
 ---
 layout: post
-title: The forest in the fog
-date: 2017-08-20 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: post-6.jpg # Add image post (optional)
+title: IoT Product Development Process - Definition Phase
+date: 2020-02-03 13:32:20 +0300
+description: Self summary on consumer use IoT product development process. # Add post description (optional)
+img: define.jpg # Add image post (optional)
 tags: [Blog, Meditation]
 author: Dominic
 ---
-|                  | 企业                                                         |                                                              | Comments                                                     |      |
-| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------------------------------- | ---- |
-|                  | 外资                                                         | 中资(台资)                                                   |                                                              |      |
-| 无线芯片         | 高通, 博通, MTK, TI, Nordic, Cypress,  Dialog                | 乐鑫，Airoha, Realtek, Silicon Lab,  Telink                  |                                                              |      |
-| 无线模组         | …                                                            | broadlink, 涂鸦智能                                          | 大多数大品牌制造商会自己搞定模组                             |      |
-| 传感器           | NICERA….                                                     | …..                                                          | 接触得少                                                     |      |
-| 云服务           | AWS，Google Cloud,  Azure,                                   | 阿里云，涂鸦智能，华为云，百度云, 腾讯云                     | 云服务  frasturcture/platfrom as service                     |      |
-| IOT平台          | AWS IOT, Google IOT  Core, Azure IOT                         | 阿里Iot，涂鸦智能IOT平台,  中国移动One Net,华为OceanConnect,腾讯IoT Hub，百度IoT, Xlink IoT | 基于云服务专门为IOT应用而设计的第三方平台，platform/software  as service |      |
-| 下游智能家居产品 | Philips  Hue （Signify）, 宜家，GE Lighting, Tp-link, Nest(Google收购), Lifx,  Ring(Amazon收购)，Honeywell，Geeni, ecobee,   西门子，施耐德… | Broadlink,  Yeelight, Sengled, 小米，立达信，美的，欧普照明，海尔… | 其实国内智能家居是有很多与地产公司合作的品牌商，不了解。。   |      |
-| 下游智能家居平台 | Amazon  Alexa, Google Home, Apple Homekit, Samsung Smartthings….. | 天猫精灵，小度，小爱同学，涂鸦智能…                          |                                                              |      |
+## IoT Product Development Process - Product Definition Phase
+
+#### Marketing/Product Team
+
+- BOI: CTQ features from commercial side. Target cost & volume per year, sales channel & market, expected warranty and use conditions, regulation & safety requirements, 3rd Party platform interoperability... Provided by Product Manager.
+- Story Map: Basic User Story for the smart product system...Provided by App Product Manager.
+- ID Design: Provide by ID design team. Need to involve supplier to evaluate the feasibility and cost to finalize and trade-off the design.
+
+####   Technology Team
+
+- PTS: Product Technical Specifications. Derived from BOI. Including key design spec, structure dimensions, warranty, reliability claim, regulation & safety requirements.. Documented by Technology Project Manager, confirmed by Design Manager, Product Manager and system manager. 
+  - If the product is a new category to GE, more benchmarking and consulting work (for example, with 3rd party experts, with system team) should be done at this stage to ensure the spec covers all the CTQs and the certification plan fits the industry standards.
+- SRS: Software Requirement Specifications. Derived from Story Map. The main items are presented as user stories. Provided by App/UE Product Manager.
+- NRE: Non-Recurring Engineering. This cost should be obtained as part of the project budget. NPI manager is accountable to draft the agreement and sign with the suppliers.
+
+#### Sourcing Team 
+
+- RFQ: Request for Quotation. Send PTS to manufacturer/supplier for FOB quotation. 
+- SRG: Supplier Auditing. Quality, sourcing ,technology and EHS department would be involved.
+
+####  Milestones 1
+
+- Objective: Obtain the approval for the project and hand-off the project to the empowered team. Sync the scope, resource and schedule with the cross-functional team.
+
+- Meeting Members: Host by NPI manager and Product Manager. Design Manager and Sourcing Manager should also be involved to provide required information and evaluation. 
+
+- Meeting Content: 
+
+  - Marketing insight & analysis, benchmark,  key customers.
+  - Target launch date,  FOB,  forecast (anticipated yearly volume), lead time and Budget allocation.
+  - ROI and payback period based on the assumptions above.
+  - Feasibility analysis.
+  - Team charts and proposed manufacturer.
+  - Preliminary PTS, including product spec,  regulatory certification required,
+  - Risk items.
+  - Agreed Schedule Plan
+
+  
