@@ -7,13 +7,14 @@ img: define.jpg # Add image post (optional)
 tags: [Blog,Smarthome]
 author: Dominic
 ---
-## Smart Home Product Development Process - Definition Phase
+
+The definition phase for a product development project starts with the BOI provided by product manager as a new product proposal. Then the cross functional teams would work together to collect the information required for project evaluation. This phase ends with MS1, which determines whether the project will be initiated and generates the high-level project scope, schedule and resources.
 
 #### Marketing/Product Team
 
 - BOI: CTQ features from commercial side. Target cost & volume per year, sales channel & market, expected warranty and use conditions, regulation & safety requirements, 3rd Party platform interoperability... Provided by Product Manager.
 
-- Story Map: Basic User Story for the smart product system...Provided by App Product Manager.
+- Story Map: Basic User Story for the smart product system...Provided by App Product Manager. Can also be provided after the project kick-off.
 
 - ID Design: Provide by ID design team. Need to involve supplier to evaluate the feasibility and cost to finalize and trade-off the design.
 
